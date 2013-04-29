@@ -9,42 +9,47 @@ Classes
 
 ___Back Office___
 
-_Interface_
+**_Interface_**
 -testapp.cpp
 -testapp.h
 
 -- placeObjects()
---- Chama funções publicas de todas as outras classes. (estas ocuparão um local específico (x,y))
+	//Chama funções publicas de todas as outras classes. (estas ocuparão um local específico (x,y))
 -- goPublic()
---- Activa Public display (chama?)
+	//Activa Public display (chama?)
 
-_Gallery_
+**_Gallery_**
 -gallery.cpp
 -gallery.h
 
 --loadVid()
----carrega video de slots vazios através de browse
---- chama genMicon() _classe micon_ ???
+	//carrega video de slots vazios através de browse;
+	//chama genMicon() _classe Micon_ ???
 --drawVid()
----carrega micon respectivo
+	//carrega micon respectivo;
 
 
-_Timeline_
+**_Timeline_**
+-timeline.cpp
+-timeline.h
 
 
 
+**_Preview_**
+	
+	Preview Gallery ()
+		
 
-Preview Gallery
-Preview Timeline
+	Preview Timeline ()
 
 
-_XMLdefs_
+**_XMLdefs_**
 
 
-_Micon_
+**_Micon_**
 
 
 ___Public Display___
 
 
-_Interaction_
+**_Interaction_**
