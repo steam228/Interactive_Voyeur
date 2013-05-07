@@ -38,9 +38,9 @@ ___Back Office___
 **_Preview_**
 	
 	Preview Gallery ()
-		
-
+		//Mostra seguimento de videos conforme ordem estabelicida na gallery
 	Preview Timeline ()
+		//Mostra video aberto na timeline e respectivos efeitos
 
 
 **_XMLdefs_**
